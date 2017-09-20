@@ -1,9 +1,9 @@
 {
   "labId": "helloworld-rustycoder-getsetup",
   "title": "HelloWorld for the Rusty Coder : Get Started",
-  "slug": "This DevNet learning lab is aimed at helping rusty coders who may not have coded for over 5 years",
+  "slug": "This DevNet learning lab helps rusty coders get started with python, git, GitHub, and Postman. It is aimed at helping rusty coders who may not have coded for over 5, 10, 15, or 20 years",
   "time": 15,
-  "byod": false,
+  "byod": true,
   "files": [
     {"title": "1.md"},
     {"title": "2.md"},
@@ -14,8 +14,8 @@
   ],
   "related": [
     {
-	"labId": "devnet-helloworld-rustycoder",
-	"title": "Getting Started with Writing Learning Labs"
+	"labId": "rustycoder-python-restAPI-flask",
+	"title": "Rusty Coder : REST APIs in Python with Flask"
     }
   ],
   "authors": [
