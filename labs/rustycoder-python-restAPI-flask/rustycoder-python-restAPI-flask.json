@@ -1,0 +1,24 @@
+{
+  "labId": "rustycoder-python-restAPI-flask",
+  "title": "Rusty Coder : REST APIs in Python with Flask",
+  "slug": "This DevNet learning lab is aimed at helping rusty coders create REST APIs and make REST API calls in their Python programs using the Flask package.",
+  "time": 15,
+  "byod": true,
+  "files": [
+    {"title": "1.md"},
+    {"title": "2.md"}
+  ],
+  "tags": [
+	{"title": "Rusty Coder : REST APIs in Python with Flask"}
+  ],
+  "related": [
+    {
+	"labId": "helloworld-rustycoder-getsetup",
+	"title": "Hello World for the Rusty Coder"
+    }
+  ],
+  "authors": [
+      {"name": "Susie Wee", "email": "susiewee@cisco.com"}
+  ],
+  "active": true
+}
