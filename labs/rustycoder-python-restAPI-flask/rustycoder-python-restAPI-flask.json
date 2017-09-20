@@ -6,7 +6,8 @@
   "byod": true,
   "files": [
     {"title": "1.md"},
-    {"title": "2.md"}
+    {"title": "2.md"},
+    {"title": "3.md"}
   ],
   "tags": [
 	{"title": "Rusty Coder"}
@@ -18,7 +19,8 @@
     }
   ],
   "authors": [
-      {"name": "Susie Wee", "email": "susiewee@cisco.com"}
+      {"name": "Susie Wee", "email": "susiewee@cisco.com"},
+      {"name": "Abu Aikepaer", "email": "aaikepae@cisco.com"}
   ],
   "active": true
 }
