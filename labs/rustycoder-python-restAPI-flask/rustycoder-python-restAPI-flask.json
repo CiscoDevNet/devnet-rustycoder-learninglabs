@@ -1,7 +1,7 @@
 {
   "labId": "rustycoder-python-restAPI-flask",
   "title": "Rusty Coder : REST APIs in Python with Flask",
-  "slug": "This DevNet learning lab helps rusty coders create REST APIs and make REST API calls in their Python programs using a python package called Flask.",
+  "slug": "This DevNet learning lab helps rusty coders create REST APIs for their Python programs using a python package called Flask",
   "time": 15,
   "byod": true,
   "files": [
