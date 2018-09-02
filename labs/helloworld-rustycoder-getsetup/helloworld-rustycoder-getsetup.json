@@ -5,9 +5,14 @@
   "time": 15,
   "byod": true,
   "files": [
-    {"title": "1.md"},
-    {"title": "2.md"},
-    {"title": "3.md"}
+    {"title": "Step 1: Find the Terminal on your Mac and play around in Unix",
+     "file": "1.md"},
+    {"title": "2.md",
+     "file": "2.md"},
+    {"title": "Step 3: Get going with Git",
+     "file": "3.md"},
+    {"title": "Step 4: Get going with Postman",
+     "file": "4.md"}
   ],
   "tags": [
 	{"title": "Rusty Coder"}
