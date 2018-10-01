@@ -1,6 +1,6 @@
 ## Cisco DevNet Learning Labs: Get Started For The Rusty Coder
 
-These self-paced interactive tutorials provide instructions for developers to learn current languages and coding.
+These self-paced interactive tutorials provide instructions for developers to learn current languages and coding styles.
 
 We write these labs for display within the [Cisco DevNet Learning Labs system](https://learninglabs.cisco.com).
 
