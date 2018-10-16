@@ -1,14 +1,20 @@
 {
   "labId": "rustycoder-python-restAPI-flask",
-  "title": "Rusty Coder : REST APIs in Python with Flask and requests",
-  "slug": "This DevNet learning lab helps rusty coders 1) create REST APIs for their Python programs using Flask and 2) make REST API calls from their Python programs using requests.",
+  "title": "Rusty Coder: REST APIs in Python with Flask and requests",
+  "slug": "This DevNet Learning Lab helps rusty coders create REST APIs for their Python programs using Flask and make REST API calls from their Python programs using requests.",
   "time": 20,
   "byod": true,
   "files": [
-    {"title": "1.md"},
-    {"title": "2.md"},
-    {"title": "3.md"},
-    {"title": "4.md"}
+    {"title": "Step 1: Install the Python **Flask** and **requests** packages",
+     "file": "1.md"},
+    {"title": "Step 2: Make a web server/web service for your Python program using Flask",
+     "file": "2.md"},
+    {"title": "Step 3: Create a REST API service for your Python program using Flask",
+     "file": "3.md"},
+    {"title": "Step 4: Run our new web service and call our new REST API with Postman",
+     "file": "4.md"},
+    {"title": "Step 5: Call a REST API from your Python program using requests",
+     "file": "5.md"}
   ],
   "tags": [
 	{"title": "Rusty Coder"}
@@ -16,7 +22,7 @@
   "related": [
     {
 	"labId": "helloworld-rustycoder-getsetup",
-	"title": "Hello World for the Rusty Coder"
+	"title": "Hello World for the Rusty Coder: Get Started"
     }
   ],
   "authors": [
